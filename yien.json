@@ -1,0 +1,282 @@
+{
+    "Status": 1,
+    "Msg": "",
+    "Data": {
+        "Table": [{
+                "Movieid": 669412,
+                "MovieName": "八佰",
+                "Genre_Main": "战争",
+                "BoxOffice": 310232,
+                "AvgPrice": 38,
+                "AvgPeoPle": 20.0,
+                "Area": "中国",
+                "ReleaseTime": "2020-08-21",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/06/76/wKgASV8naXmAbQuEAABGZEs2NKg717.jpg"
+            },
+            {
+                "Movieid": 701620,
+                "MovieName": "我和我的家乡",
+                "Genre_Main": "喜剧",
+                "BoxOffice": 282883,
+                "AvgPrice": 39,
+                "AvgPeoPle": 19.0,
+                "Area": "中国",
+                "ReleaseTime": "2020-10-01",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/03/79/wKgAS18017aAZEpVAAB3mxyz0N0065.jpg"
+            },
+            {
+                "Movieid": 682630,
+                "MovieName": "姜子牙",
+                "Genre_Main": "动画",
+                "BoxOffice": 160298,
+                "AvgPrice": 40,
+                "AvgPeoPle": 19.0,
+                "Area": "中国",
+                "ReleaseTime": "2020-10-01",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/06/F3/wKgASV853gOAOlYUAABM-njq0OI280.jpg"
+            },
+            {
+                "Movieid": 701994,
+                "MovieName": "金刚川",
+                "Genre_Main": "剧情/战争",
+                "BoxOffice": 112289,
+                "AvgPrice": 37,
+                "AvgPeoPle": 8.0,
+                "Area": "中国",
+                "ReleaseTime": "2020-10-23",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/08/6C/wKgAS1-x5xCAFQ6GAABwkKiQ9UE471.jpg"
+            },
+            {
+                "Movieid": 676043,
+                "MovieName": "夺冠",
+                "Genre_Main": "剧情",
+                "BoxOffice": 83567,
+                "AvgPrice": 39,
+                "AvgPeoPle": 11.0,
+                "Area": "中国",
+                "ReleaseTime": "2020-09-25",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/06/F4/wKgASV85_LKAMF9IAABVYj2Uxmo057.jpg"
+            },
+            {
+                "Movieid": 691902,
+                "MovieName": "拆弹专家2",
+                "Genre_Main": "动作",
+                "BoxOffice": 60229,
+                "AvgPrice": 38,
+                "AvgPeoPle": 17.0,
+                "Area": "中国",
+                "ReleaseTime": "2020-12-24",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/10/3C/wKgASV-k9jaAWz-lAABugxbiQKE111.jpg"
+            },
+            {
+                "Movieid": 683688,
+                "MovieName": "除暴",
+                "Genre_Main": "动作",
+                "BoxOffice": 53761,
+                "AvgPrice": 37,
+                "AvgPeoPle": 8.0,
+                "Area": "中国",
+                "ReleaseTime": "2020-11-20",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/10/B6/wKgASV-yO7iAYsuHAAB0CbyF1YU541.jpg"
+            },
+            {
+                "Movieid": 685447,
+                "MovieName": "宠爱",
+                "Genre_Main": "剧情",
+                "BoxOffice": 51060,
+                "AvgPrice": 35,
+                "AvgPeoPle": 7.0,
+                "Area": "中国",
+                "ReleaseTime": "2019-12-31",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/02/97/wKgAS138anyABrGMAABqXWMS8J0285.jpg"
+            },
+            {
+                "Movieid": 684830,
+                "MovieName": "我在时间尽头等你",
+                "Genre_Main": "爱情",
+                "BoxOffice": 50433,
+                "AvgPrice": 35,
+                "AvgPeoPle": 16.0,
+                "Area": "中国",
+                "ReleaseTime": "2020-08-25",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/03/28/wKgAS18Y9LGASDYpAABfnHubW8I079.jpg"
+            },
+            {
+                "Movieid": 693266,
+                "MovieName": "误杀",
+                "Genre_Main": "剧情",
+                "BoxOffice": 50227,
+                "AvgPrice": 32,
+                "AvgPeoPle": 8.0,
+                "Area": "中国",
+                "ReleaseTime": "2019-12-13",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/02/96/wKgAS13gt0WAS3CjAABoTRx_PZ8927.jpg"
+            },
+            {
+                "Movieid": 697311,
+                "MovieName": "信条",
+                "Genre_Main": "科幻",
+                "BoxOffice": 45507,
+                "AvgPrice": 39,
+                "AvgPeoPle": 10.0,
+                "Area": "美国/英国",
+                "ReleaseTime": "2020-09-04",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/03/56/wKgASl8ssr2AQxF3AABeR-aNLCA799.jpg"
+            },
+            {
+                "Movieid": 673155,
+                "MovieName": "紧急救援",
+                "Genre_Main": "剧情",
+                "BoxOffice": 43861,
+                "AvgPrice": 39,
+                "AvgPeoPle": 10.0,
+                "Area": "中国",
+                "ReleaseTime": "2020-12-18",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/11/F4/wKgASV_NlYqAQRGPAABz6eZG_-g566.jpg"
+            },
+            {
+                "Movieid": 624015,
+                "MovieName": "叶问4：完结篇",
+                "Genre_Main": "动作",
+                "BoxOffice": 41914,
+                "AvgPrice": 36,
+                "AvgPeoPle": 7.0,
+                "Area": "中国/中国香港",
+                "ReleaseTime": "2019-12-20",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/05/2C/wKgASV34PqSAQliYAABmxNg1oI0829.jpg"
+            },
+            {
+                "Movieid": 698915,
+                "MovieName": "沐浴之王",
+                "Genre_Main": "喜剧",
+                "BoxOffice": 40255,
+                "AvgPrice": 34,
+                "AvgPeoPle": 10.0,
+                "Area": "中国",
+                "ReleaseTime": "2020-12-11",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/12/10/wKgASV_QOWaAB6rkAABw_eznNOA562.jpg"
+            },
+            {
+                "Movieid": 695502,
+                "MovieName": "晴雅集",
+                "Genre_Main": "动作",
+                "BoxOffice": 36892,
+                "AvgPrice": 37,
+                "AvgPeoPle": 15.0,
+                "Area": "中国",
+                "ReleaseTime": "2020-12-25",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/09/19/wKgASl_O6EKAHFXMAABvgaRjS44930.jpg"
+            },
+            {
+                "Movieid": 643623,
+                "MovieName": "疯狂原始人2",
+                "Genre_Main": "动画",
+                "BoxOffice": 33803,
+                "AvgPrice": 35,
+                "AvgPeoPle": 8.0,
+                "Area": "美国",
+                "ReleaseTime": "2020-11-27",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/10/7F/wKgASV-sjg6APX5dAACGpzXhg-k859.jpg"
+            },
+            {
+                "Movieid": 694211,
+                "MovieName": "如果声音不记得",
+                "Genre_Main": "爱情",
+                "BoxOffice": 33498,
+                "AvgPrice": 36,
+                "AvgPeoPle": 7.0,
+                "Area": "中国",
+                "ReleaseTime": "2020-12-04",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/08/90/wKgAS1-3JyyAPABfAABTjSU7wF8077.jpg"
+            },
+            {
+                "Movieid": 701597,
+                "MovieName": "一点就到家",
+                "Genre_Main": "剧情",
+                "BoxOffice": 31216,
+                "AvgPrice": 37,
+                "AvgPeoPle": 8.0,
+                "Area": "中国/中国香港",
+                "ReleaseTime": "2020-10-04",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/04/6C/wKgASl9tSTuAN-Z4AABU6_zeO28753.jpg"
+            },
+            {
+                "Movieid": 683149,
+                "MovieName": "急先锋",
+                "Genre_Main": "动作",
+                "BoxOffice": 29381,
+                "AvgPrice": 38,
+                "AvgPeoPle": 9.0,
+                "Area": "中国",
+                "ReleaseTime": "2020-09-30",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/03/F4/wKgASl9PEkaAVTU0AABvhJ-2fww599.jpg"
+            },
+            {
+                "Movieid": 679587,
+                "MovieName": "花木兰",
+                "Genre_Main": "剧情",
+                "BoxOffice": 27733,
+                "AvgPrice": 36,
+                "AvgPeoPle": 7.0,
+                "Area": "中国/美国",
+                "ReleaseTime": "2020-09-11",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/03/F5/wKgAS19PO-KANH1vAAB7I8K7Lg4034.jpg"
+            },
+            {
+                "Movieid": 701874,
+                "MovieName": "送你一朵小红花",
+                "Genre_Main": "剧情",
+                "BoxOffice": 23660,
+                "AvgPrice": 38,
+                "AvgPeoPle": 67.0,
+                "Area": "中国",
+                "ReleaseTime": "2020-12-31",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/07/99/wKgASV9E0L2AWs6IAAB3QmraRBU803.jpg"
+            },
+            {
+                "Movieid": 695877,
+                "MovieName": "温暖的抱抱",
+                "Genre_Main": "喜剧",
+                "BoxOffice": 19502,
+                "AvgPrice": 37,
+                "AvgPeoPle": 48.0,
+                "Area": "中国",
+                "ReleaseTime": "2020-12-31",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/07/9E/wKgASV9GBHKAPa9AAAB2S0H3bi4083.jpg"
+            },
+            {
+                "Movieid": 412178,
+                "MovieName": "哈利·波特与魔法石",
+                "Genre_Main": "魔幻/动作",
+                "BoxOffice": 19167,
+                "AvgPrice": 35,
+                "AvgPeoPle": 9.0,
+                "Area": "英国",
+                "ReleaseTime": "2002-01-31",
+                "defaultImage": "https://images.entgroup.cn/group1/M00/00/C4/wKgASVznzZqAOQukAAC7ydXidio865.jpg"
+            },
+            {
+                "Movieid": 653863,
+                "MovieName": "赤狐书生",
+                "Genre_Main": "奇幻",
+                "BoxOffice": 18566,
+                "AvgPrice": 36,
+                "AvgPeoPle": 6.0,
+                "Area": "中国",
+                "ReleaseTime": "2020-12-04",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/05/EE/wKgASl-FJ0aAXyWrAABt1Y26PPI478.jpg"
+            },
+            {
+                "Movieid": 678807,
+                "MovieName": "神奇女侠1984",
+                "Genre_Main": "动作",
+                "BoxOffice": 16218,
+                "AvgPrice": 39,
+                "AvgPeoPle": 8.0,
+                "Area": "美国",
+                "ReleaseTime": "2020-12-18",
+                "defaultImage": "https://images.entgroup.cn/group2/M00/08/A3/wKgAS1-4YxeAeSM9AAB1wlj5yjQ184.jpg"
+            }
+        ]
+    }
+}
